@@ -15,7 +15,7 @@ namespace tugas1
             int pilih;
             float jawaban, pertama, kedua;
 
-            Console.WriteLine("Kalkulator Sederhana");
+            Console.WriteLine(" < Kalkulator Sederhana > ");
             Console.WriteLine("Pilih menu");
             Console.WriteLine("1.Penambahan");
             Console.WriteLine("2.Penguranagan");
